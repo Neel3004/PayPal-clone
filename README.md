@@ -18,12 +18,12 @@ A responsive front-end clone of the PayPal website, built using **HTML**, **CSS*
 
 To run the project locally:
 
-### Option 1(recommended): Using VS Code + Live Server
+### Option 1: Using VS Code + Live Server
 1. Open the project folder in **Visual Studio Code**.
 2. Install the **Live Server** extension (if not already installed).
 3. Right-click on `index.html` → **"Open with Live Server"**.
 
-### Option 2: Using Python (Quick Terminal Method)
+### Option 2: Using Python
 ```bash
 # Navigate to the project folder
 cd your-project-folder
