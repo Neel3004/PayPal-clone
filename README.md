@@ -12,7 +12,7 @@ A responsive front-end clone of the PayPal website, built using **HTML**, **CSS*
 
 ## Demo Preview
 
-![image](https://github.com/user-attachments/assets/2bffe43f-4cf2-4917-9896-905597a0321e))
+![image](https://github.com/user-attachments/assets/2bffe43f-4cf2-4917-9896-905597a0321e)
 
 ## Getting Started
 
