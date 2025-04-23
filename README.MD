@@ -1,3 +1,0 @@
-# PayPal-clone
-
-This is the readme file for PayPal clone project.
